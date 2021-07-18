@@ -1,2 +1,2 @@
 # MyTube
-## Simples site desenvolvido onde você pode personalizalo colocando quaisquer videos do youtube que quiser apenas colocando o link dos mesmos no site.
+Simples site desenvolvido onde você pode personaliza-lo colocando qualquer video público que estaja no youtube.
